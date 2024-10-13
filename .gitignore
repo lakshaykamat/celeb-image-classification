@@ -1,0 +1,6 @@
+
+model/.ipynb_checkpoints/
+
+model/class_dictionary.json
+
+*.pkl
